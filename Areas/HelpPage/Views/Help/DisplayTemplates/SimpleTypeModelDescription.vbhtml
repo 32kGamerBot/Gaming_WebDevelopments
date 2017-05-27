@@ -1,0 +1,3 @@
+@Imports Gaming_webdevelopments.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation
